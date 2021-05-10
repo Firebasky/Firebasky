@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-**Firebasky/Firebasky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 大学 学生
 - 🌱 信息安全方向
