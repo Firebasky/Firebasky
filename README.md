@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Firebasky
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Firebasky)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋 I'm Firebasky<img align="right" src="https://github-readme-stats.vercel.app/api?username=KpLi0rn&show_icons=true&theme=radical">
 
 - 🔭 大学 学生
 - 🌱 信息安全方向
