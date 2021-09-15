@@ -13,4 +13,4 @@
 ## &#x1f92b; Github Visitors
 
 
-[![Top Langs](https://profile-counter.glitch.me/Firebasky/count.svg)](https://Firebasky.org)
+[![Top Langs](https://profile-counter.glitch.me/Firebasky/count.svg)]()
