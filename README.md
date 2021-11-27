@@ -14,3 +14,6 @@
 
 
 [![Top Langs](https://profile-counter.glitch.me/Firebasky/count.svg)](https://github.com/Firebasky)
+
+
+![勉励](https://user-images.githubusercontent.com/63966847/143666678-966b8ccc-dacf-4dbc-9c25-21ba724704e5.png)
