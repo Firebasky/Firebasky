@@ -2,10 +2,10 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Firebasky?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/Firebasky?style=social)
 
-- 🔭 大学 学生
-- 🌱 信息安全方向
-- 😄 安全混子 篮球 听音乐
-- 🔭 D0g3成员 ctfer
+- 🔭 大学 ~~学生~~ 打工人
+- 🌱 信息安全方向 fw一个
+- 😄 安全混子 ~~篮球~~ 听音乐
+- 🔭 D0g3成员 ~~ctfer~
 
 
 座右铭：一往无前虎山行
