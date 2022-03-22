@@ -5,7 +5,7 @@
 - 🔭 大学 学生 keenlab
 - 🌱 信息安全方向 fw一个
 - 😄 安全混子 篮球 听音乐
-- 🔭 D0g3成员 ctfer
+- 🔭 D0g3成员 ctfer [博客](https://firebasky.github.io/)
 
 
 座右铭：一往无前虎山行/心有猛虎细嗅蔷薇
