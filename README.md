@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Firebasky?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/Firebasky?style=social)
 
-- 🔭 大学 学生 
+- 🔭 ~~大学 学生~~ 打工了
 - 🌱 信息安全方向
 - 😄 篮球 听音乐
 - 🔭 D0g3成员 ctfer [博客](https://firebasky.github.io/)
